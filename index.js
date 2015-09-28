@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-// test
 
 var userArgs     =	process.argv.slice(2),
 	cwd          =	process.cwd(),
