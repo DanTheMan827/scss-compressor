@@ -1,0 +1,15 @@
+{
+  "name": "scss-compressor",
+  "version": "1.0.0",
+  "description": "Process with scss, autoprefixer, and cleancss.",
+  "main": "index.js",
+  "dependencies": {
+    "autoprefixer": "^5.2.0",
+    "clean-css": "^3.4.1",
+    "node-sass": "^3.3.2",
+    "postcss": "^5.0.4"
+  },
+  "devDependencies": {},
+  "author": "DanTheMan827",
+  "license": "ISC"
+}
