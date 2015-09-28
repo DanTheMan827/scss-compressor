@@ -7,6 +7,9 @@
 ehthumbs.db
 Thumbs.db
 
+# dev files
+process_scss.cmd
+
 # Caches
 .sass-cache
 

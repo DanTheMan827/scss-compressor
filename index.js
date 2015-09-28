@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var userArgs     =	process.argv.slice(2),
 	cwd          =	process.cwd(),
 	outputPath   =	(function(file){

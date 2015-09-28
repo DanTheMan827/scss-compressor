@@ -5,11 +5,28 @@
   "main": "index.js",
   "dependencies": {
     "autoprefixer": "^5.2.0",
-    "clean-css": "^3.4.1",
-    "node-sass": "^3.3.2",
-    "postcss": "^5.0.4"
+    "clean-css": "^3.4.5",
+    "node-sass": "^3.3.3",
+    "postcss": "^5.0.8"
   },
   "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/DanTheMan827/scss-compressor.git"
+  },
+  "keywords": [
+    "autoprefixer",
+    "clean-css",
+    "node-sass",
+    "postcss"
+  ],
   "author": "DanTheMan827",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanTheMan827/scss-compressor/issues"
+  },
+  "homepage": "https://github.com/DanTheMan827/scss-compressor#readme"
 }
