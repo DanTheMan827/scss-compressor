@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Process with scss, autoprefixer, and cleancss.",
   "main": "index.js",
+  "bin": {
+	"scss-compressor": "index.js"
+  },
   "dependencies": {
     "autoprefixer": "^5.2.0",
     "clean-css": "^3.4.5",
